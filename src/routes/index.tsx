@@ -266,7 +266,7 @@ function LandingPage() {
                 }}
                 className="btn-outline h-14 px-8 rounded-2xl text-base font-semibold"
               >
-                Cuba Kalkulator Terus
+                Cuba Kalkulator 
               </button>
             </div>
 

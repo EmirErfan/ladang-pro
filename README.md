@@ -1,6 +1,6 @@
 ﻿# 🌿 Ladang Pro
 
-**No Idea**
+**No Idea**ll
 
 Ladang Pro is ummm...IDK
 
@@ -12,7 +12,7 @@ Ladang Pro is ummm...IDK
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech STACKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 
 *   **Framework:** React 18
 *   **Routing:** [TanStack Router](https://tanstack.com/router/latest)
@@ -73,3 +73,11 @@ Built by **Rime**.
 ## 📝 License
 
 Yes I ChatGPT this, dunno why he put this part but...yeah.
+
+## For Git Push
+
+git add .
+
+git commit -m "write message"
+
+git push
