@@ -245,7 +245,7 @@ function LandingPage() {
             </div>
 
             <h1 className="hero-title font-display text-5xl md:text-6xl lg:text-7xl font-bold text-green-950 tracking-tight leading-[1.1] mb-6">
-              Urus Karbon <br />
+              Urus Jejak Karbon <br />
               <span className="italic text-green-600">Lebih Bijak,</span>
               <br />Lebih Lestari
             </h1>
