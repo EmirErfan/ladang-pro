@@ -37,7 +37,7 @@ Might help in the future.
 
 1. **Clone the repository** (if applicable):
    
-   [git clone (https://github.com/EmirErfan/ladang-pro.git)](https://github.com/EmirErfan/ladang-pro.git)
+   [git clone https://github.com/EmirErfan/ladang-pro.git]
 
 2. **Navigate to the project directory**
     cd ladang-pro
