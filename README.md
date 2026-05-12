@@ -1,6 +1,6 @@
 ﻿# 🌿 Ladang Pro
 
-**No Idea**ll
+**No Idea**
 
 Ladang Pro is ummm...IDK
 
@@ -74,7 +74,7 @@ Built by **Rime**.
 
 Yes I ChatGPT this, dunno why he put this part but...yeah.
 
-## For Git Push
+## For Git Push (for someone who code using notepad before)
 
 git add .
 
